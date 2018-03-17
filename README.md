@@ -27,7 +27,7 @@ A few input data used in the paper are taken from [AIM@SHAPE](http://visionair.g
 
 ## Teaser
 
-![Picture]()
+![Picture](https://github.com/jijup/Shapehull/blob/master/assets/teaser.jpg)
 
 ## Feedback
 
