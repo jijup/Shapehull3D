@@ -24,3 +24,11 @@ author = "Jiju Peethambaran and Ramanathan Muthuganapathy",
 ## Data
 
 A few input data used in the paper are taken from [AIM@SHAPE](http://visionair.ge.imati.cnr.it/ontologies/shapes/) repository.
+
+## Teaser
+
+![Picture]()
+
+## Feedback
+
+You may send your comments or feedback on the software to jijupnair2000@gmail.com
